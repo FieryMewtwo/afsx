@@ -1,3 +1,7 @@
+---
+title: About
+
+---
 ## afsx
 
 ### afsx is the new way to work and play. Simply insert your external drive and go. 
